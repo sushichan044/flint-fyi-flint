@@ -1,3 +1,4 @@
+import vitestPlugin from "@vitest/eslint-plugin";
 import { builtinRules } from "eslint/use-at-your-own-risk";
 import { describe, expect, it } from "vitest";
 
@@ -28,6 +29,22 @@ describe("data.json", () => {
 			expect(builtinESLintRuleNamesCoveredByFlint).toEqual(
 				builtinESLintRuleNames,
 			);
+		});
+
+		it("includes all @vitest/eslint-plugin rules", () => {
+			const activeVitestRuleNames = new Set(
+				Object.entries(vitestPlugin.rules)
+					.flatMap(([ruleName, rule]) =>
+						!rule.meta?.deprecated ? [ruleName] : [],
+					)
+					.sort(),
+			);
+
+			const vitestRuleNamesCoveredByFlint = new Set(
+				Object.keys(groupedData.eslint.vitest).sort(),
+			);
+
+			expect(vitestRuleNamesCoveredByFlint).toEqual(activeVitestRuleNames);
 		});
 	});
 });

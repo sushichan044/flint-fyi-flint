@@ -29,6 +29,7 @@
 		"prettier": "3.8.1"
 	},
 	"devDependencies": {
+		"@vitest/eslint-plugin": "1.6.9",
 		"eslint": "10.0.2",
 		"tsdown": "0.20.1",
 		"vitest": "4.0.15"

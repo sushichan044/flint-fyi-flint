@@ -19473,7 +19473,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-after-all-blocks",
+				"name": "vitest/padding-around-after-all-blocks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-after-all-blocks.md"
 			}
 		],
@@ -19487,7 +19487,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-after-each-blocks",
+				"name": "vitest/padding-around-after-each-blocks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-after-each-blocks.md"
 			}
 		],
@@ -19501,7 +19501,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-alias-methods",
+				"name": "vitest/no-alias-methods",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-alias-methods.md"
 			}
 		],
@@ -19514,7 +19514,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-all",
+				"name": "vitest/padding-around-all",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-all.md"
 			}
 		],
@@ -19528,7 +19528,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-before-all-blocks",
+				"name": "vitest/padding-around-before-all-blocks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-before-all-blocks.md"
 			}
 		],
@@ -19542,7 +19542,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-before-each-blocks",
+				"name": "vitest/padding-around-before-each-blocks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-before-each-blocks.md"
 			}
 		],
@@ -19556,7 +19556,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-strict-boolean-matchers",
+				"name": "vitest/prefer-strict-boolean-matchers",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-strict-boolean-matchers.md"
 			}
 		],
@@ -19570,7 +19570,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-called-exactly-once-with",
+				"name": "vitest/prefer-called-exactly-once-with",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-exactly-once-with.md"
 			}
 		],
@@ -19584,7 +19584,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-called-times",
+				"name": "vitest/prefer-called-times",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-times.md"
 			}
 		],
@@ -19598,7 +19598,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-called-with",
+				"name": "vitest/prefer-called-with",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-with.md"
 			}
 		],
@@ -19612,7 +19612,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-commented-out-tests",
+				"name": "vitest/no-commented-out-tests",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-commented-out-tests.md"
 			}
 		],
@@ -19626,7 +19626,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-comparison-matcher",
+				"name": "vitest/prefer-comparison-matcher",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-comparison-matcher.md"
 			}
 		],
@@ -19639,7 +19639,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-conditional-expect",
+				"name": "vitest/no-conditional-expect",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-conditional-expect.md"
 			}
 		],
@@ -19653,7 +19653,7 @@
 	{
 		"eslint": [
 			{
-				"name": "valid-describe-callback",
+				"name": "vitest/valid-describe-callback",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-describe-callback.md"
 			}
 		],
@@ -19666,7 +19666,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-describe-blocks",
+				"name": "vitest/padding-around-describe-blocks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-describe-blocks.md"
 			}
 		],
@@ -19680,7 +19680,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-describe-function-title",
+				"name": "vitest/prefer-describe-function-title",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-describe-function-title.md"
 			}
 		],
@@ -19693,7 +19693,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-each",
+				"name": "vitest/prefer-each",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-each.md"
 			}
 		],
@@ -19706,7 +19706,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-todo",
+				"name": "vitest/prefer-todo",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-todo.md"
 			}
 		],
@@ -19720,7 +19720,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-to-be",
+				"name": "vitest/prefer-to-be",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be.md"
 			}
 		],
@@ -19734,7 +19734,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-equality-matcher",
+				"name": "vitest/prefer-equality-matcher",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-equality-matcher.md"
 			}
 		],
@@ -19747,7 +19747,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-expect-groups",
+				"name": "vitest/padding-around-expect-groups",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-expect-groups.md"
 			}
 		],
@@ -19761,7 +19761,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-expect-resolves",
+				"name": "vitest/prefer-expect-resolves",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-expect-resolves.md"
 			}
 		],
@@ -19774,7 +19774,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-standalone-expect",
+				"name": "vitest/no-standalone-expect",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-standalone-expect.md"
 			}
 		],
@@ -19788,7 +19788,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-expect-type-of",
+				"name": "vitest/prefer-expect-type-of",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-expect-type-of.md"
 			}
 		],
@@ -19801,7 +19801,7 @@
 	{
 		"eslint": [
 			{
-				"name": "valid-expect",
+				"name": "vitest/valid-expect",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-expect.md"
 			}
 		],
@@ -19814,7 +19814,7 @@
 	{
 		"eslint": [
 			{
-				"name": "consistent-test-filename",
+				"name": "vitest/consistent-test-filename",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/consistent-test-filename.md"
 			}
 		],
@@ -19826,7 +19826,7 @@
 	{
 		"eslint": [
 			{
-				"name": "hoisted-apis-on-top",
+				"name": "vitest/hoisted-apis-on-top",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/hoisted-apis-on-top.md"
 			}
 		],
@@ -19840,7 +19840,7 @@
 	{
 		"eslint": [
 			{
-				"name": "require-hook",
+				"name": "vitest/require-hook",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-hook.md"
 			}
 		],
@@ -19854,7 +19854,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-duplicate-hooks",
+				"name": "vitest/no-duplicate-hooks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-duplicate-hooks.md"
 			}
 		],
@@ -19868,7 +19868,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-hooks-in-order",
+				"name": "vitest/prefer-hooks-in-order",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-hooks-in-order.md"
 			}
 		],
@@ -19882,7 +19882,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-hooks",
+				"name": "vitest/no-hooks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-hooks.md"
 			}
 		],
@@ -19896,7 +19896,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-hooks-on-top",
+				"name": "vitest/prefer-hooks-on-top",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-hooks-on-top.md"
 			}
 		],
@@ -19910,7 +19910,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-import-in-mock",
+				"name": "vitest/prefer-import-in-mock",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-import-in-mock.md"
 			}
 		],
@@ -19923,7 +19923,7 @@
 	{
 		"eslint": [
 			{
-				"name": "max-expects",
+				"name": "vitest/max-expects",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/max-expects.md"
 			}
 		],
@@ -19937,7 +19937,7 @@
 	{
 		"eslint": [
 			{
-				"name": "max-nested-describe",
+				"name": "vitest/max-nested-describe",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/max-nested-describe.md"
 			}
 		],
@@ -19951,7 +19951,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-vi-mocked",
+				"name": "vitest/prefer-vi-mocked",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-vi-mocked.md"
 			}
 		],
@@ -19965,7 +19965,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-mocks-import",
+				"name": "vitest/no-mocks-import",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-mocks-import.md"
 			}
 		],
@@ -19979,7 +19979,7 @@
 	{
 		"eslint": [
 			{
-				"name": "require-mock-type-parameters",
+				"name": "vitest/require-mock-type-parameters",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-mock-type-parameters.md"
 			}
 		],
@@ -19993,7 +19993,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-import-node-test",
+				"name": "vitest/no-import-node-test",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-import-node-test.md"
 			}
 		],
@@ -20006,7 +20006,7 @@
 	{
 		"eslint": [
 			{
-				"name": "require-awaited-expect-poll",
+				"name": "vitest/require-awaited-expect-poll",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-awaited-expect-poll.md"
 			}
 		],
@@ -20020,7 +20020,7 @@
 	{
 		"eslint": [
 			{
-				"name": "valid-expect-in-promise",
+				"name": "vitest/valid-expect-in-promise",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-expect-in-promise.md"
 			}
 		],
@@ -20034,7 +20034,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-mock-promise-shorthand",
+				"name": "vitest/prefer-mock-promise-shorthand",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-mock-promise-shorthand.md"
 			}
 		],
@@ -20047,7 +20047,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-restricted-matchers",
+				"name": "vitest/no-restricted-matchers",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-restricted-matchers.md"
 			}
 		],
@@ -20059,7 +20059,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-restricted-vi-methods",
+				"name": "vitest/no-restricted-vi-methods",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-restricted-vi-methods.md"
 			}
 		],
@@ -20071,7 +20071,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-snapshot-hint",
+				"name": "vitest/prefer-snapshot-hint",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-snapshot-hint.md"
 			}
 		],
@@ -20085,7 +20085,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-interpolation-in-snapshots",
+				"name": "vitest/no-interpolation-in-snapshots",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-interpolation-in-snapshots.md"
 			}
 		],
@@ -20099,7 +20099,7 @@
 	{
 		"eslint": [
 			{
-				"name": "require-local-test-context-for-concurrent-snapshots",
+				"name": "vitest/require-local-test-context-for-concurrent-snapshots",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-local-test-context-for-concurrent-snapshots.md"
 			}
 		],
@@ -20112,7 +20112,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-large-snapshots",
+				"name": "vitest/no-large-snapshots",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-large-snapshots.md"
 			}
 		],
@@ -20126,7 +20126,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-spy-on",
+				"name": "vitest/prefer-spy-on",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-spy-on.md"
 			}
 		],
@@ -20140,7 +20140,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-strict-equal",
+				"name": "vitest/prefer-strict-equal",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-strict-equal.md"
 			}
 		],
@@ -20154,7 +20154,7 @@
 	{
 		"eslint": [
 			{
-				"name": "expect-expect",
+				"name": "vitest/expect-expect",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/expect-expect.md"
 			}
 		],
@@ -20167,7 +20167,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-expect-assertions",
+				"name": "vitest/prefer-expect-assertions",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-expect-assertions.md"
 			}
 		],
@@ -20180,7 +20180,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-focused-tests",
+				"name": "vitest/no-focused-tests",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-focused-tests.md"
 			}
 		],
@@ -20194,7 +20194,7 @@
 	{
 		"eslint": [
 			{
-				"name": "padding-around-test-blocks",
+				"name": "vitest/padding-around-test-blocks",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/padding-around-test-blocks.md"
 			}
 		],
@@ -20208,7 +20208,7 @@
 	{
 		"eslint": [
 			{
-				"name": "require-top-level-describe",
+				"name": "vitest/require-top-level-describe",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-top-level-describe.md"
 			}
 		],
@@ -20222,7 +20222,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-lowercase-title",
+				"name": "vitest/prefer-lowercase-title",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-lowercase-title.md"
 			}
 		],
@@ -20236,7 +20236,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-conditional-tests",
+				"name": "vitest/no-conditional-tests",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-conditional-tests.md"
 			}
 		],
@@ -20250,7 +20250,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-conditional-in-test",
+				"name": "vitest/no-conditional-in-test",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-conditional-in-test.md"
 			}
 		],
@@ -20264,7 +20264,7 @@
 	{
 		"eslint": [
 			{
-				"name": "consistent-test-it",
+				"name": "vitest/consistent-test-it",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/consistent-test-it.md"
 			}
 		],
@@ -20276,7 +20276,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-disabled-tests",
+				"name": "vitest/no-disabled-tests",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-disabled-tests.md"
 			}
 		],
@@ -20290,7 +20290,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-test-prefixes",
+				"name": "vitest/no-test-prefixes",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-test-prefixes.md"
 			}
 		],
@@ -20303,7 +20303,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-test-return-statement",
+				"name": "vitest/no-test-return-statement",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-test-return-statement.md"
 			}
 		],
@@ -20317,7 +20317,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-identical-title",
+				"name": "vitest/no-identical-title",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-identical-title.md"
 			}
 		],
@@ -20330,7 +20330,7 @@
 	{
 		"eslint": [
 			{
-				"name": "valid-title",
+				"name": "vitest/valid-title",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/valid-title.md"
 			}
 		],
@@ -20343,7 +20343,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-to-be-object",
+				"name": "vitest/prefer-to-be-object",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be-object.md"
 			}
 		],
@@ -20357,7 +20357,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-to-contain",
+				"name": "vitest/prefer-to-contain",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-contain.md"
 			}
 		],
@@ -20370,7 +20370,7 @@
 	{
 		"eslint": [
 			{
-				"name": "warn-todo",
+				"name": "vitest/warn-todo",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/warn-todo.md"
 			}
 		],
@@ -20384,7 +20384,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-to-have-length",
+				"name": "vitest/prefer-to-have-length",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-have-length.md"
 			}
 		],
@@ -20397,7 +20397,7 @@
 	{
 		"eslint": [
 			{
-				"name": "require-to-throw-message",
+				"name": "vitest/require-to-throw-message",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-to-throw-message.md"
 			}
 		],
@@ -20411,7 +20411,7 @@
 	{
 		"eslint": [
 			{
-				"name": "consistent-vitest-vi",
+				"name": "vitest/consistent-vitest-vi",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/consistent-vitest-vi.md"
 			}
 		],
@@ -20423,7 +20423,7 @@
 	{
 		"eslint": [
 			{
-				"name": "prefer-importing-vitest-globals",
+				"name": "vitest/prefer-importing-vitest-globals",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-importing-vitest-globals.md"
 			}
 		],
@@ -20436,7 +20436,7 @@
 	{
 		"eslint": [
 			{
-				"name": "no-importing-vitest-globals",
+				"name": "vitest/no-importing-vitest-globals",
 				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-importing-vitest-globals.md"
 			}
 		],
@@ -22161,5 +22161,69 @@
 			"status": "implemented",
 			"strictness": "strict"
 		}
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/consistent-each-for",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/consistent-each-for.md"
+			}
+		]
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/no-unneeded-async-expect-function",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/no-unneeded-async-expect-function.md"
+			}
+		]
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/prefer-called-once",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-called-once.md"
+			}
+		]
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/prefer-mock-return-shorthand",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-mock-return-shorthand.md"
+			}
+		]
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/prefer-to-be-falsy",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be-falsy.md"
+			}
+		]
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/prefer-to-be-truthy",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-be-truthy.md"
+			}
+		]
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/prefer-to-have-been-called-times",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/prefer-to-have-been-called-times.md"
+			}
+		]
+	},
+	{
+		"eslint": [
+			{
+				"name": "vitest/require-test-timeout",
+				"url": "https://github.com/vitest-dev/eslint-plugin-vitest/blob/main/docs/rules/require-test-timeout.md"
+			}
+		]
 	}
 ]
